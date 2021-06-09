@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1623099477 source:c:\users\vigil\desktop\try_to_copy\trytocopy\voto.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	"main.h"
+	<windows.h>
+
+1623099414 c:\users\vigil\desktop\try_to_copy\trytocopy\main.h
+
+1623099477 source:c:\users\vigil\desktop\try_to_copy\trytocopy\menù.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	"main.h"
+	<windows.h>
+
+1623099477 source:c:\users\vigil\desktop\try_to_copy\trytocopy\rewind.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	"main.h"
+	<windows.h>
+
+1623099477 source:c:\users\vigil\desktop\try_to_copy\trytocopy\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	"main.h"
+	<windows.h>
+
+1623099477 source:c:\users\vigil\desktop\try_to_copy\trytocopy\libro.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	"main.h"
+	<windows.h>
+
+1623099526 source:c:\users\vigil\desktop\try_to_copy\trytocopy\gioco.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	"main.h"
+	<windows.h>
+
